@@ -1,0 +1,15 @@
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: rgba(69, 55, 106, 0.422);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border: solid 10px;
+  border-width: 5px;
+  border-radius: 20px;
+}
+
+input {
+  width: 45px;
+}
